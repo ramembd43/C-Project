@@ -8,3 +8,6 @@ int main()
 printf("Hello world");
 return 0;
 }
+2.operators
+3.loops
+4.conditional Statements
