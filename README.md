@@ -1,5 +1,5 @@
 # C-Project
-Learning C from Basics to advanced level
+Learning C from Basics to Advanced level
 topics to understand 
 
 
